@@ -1,0 +1,9 @@
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\bin\Debug\BotClicker.exe.config
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\bin\Debug\BotClicker.exe
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\bin\Debug\BotClicker.pdb
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.csprojResolveAssemblyReference.cache
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.Form1.resources
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.Properties.Resources.resources
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.csproj.GenerateResource.Cache
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.exe
+c:\users\владимир\documents\visual studio 2015\Projects\BotClicker\BotClicker\obj\Debug\BotClicker.pdb
